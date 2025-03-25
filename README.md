@@ -80,7 +80,7 @@ Our mission:
 
 - 🌐 Website: [www.bvunze.co.za](https://www.bvunze.co.za)
 - 💌 Email: info@bvunze.com
-- 🧑‍💻 GitHub: [github.com/Bvunze-Pty-Ltd](https://github.com/Bvunze-Pty-Ltd)
+- 🧑‍💻 GitHub: [github.com/Bvunze-Pty-Ltd]([https://github.com/Bvunze-Pty-Ltd](https://github.com/Sly-Manyonga/Bvunze-Pty-Ltd)
 
 ---
 
